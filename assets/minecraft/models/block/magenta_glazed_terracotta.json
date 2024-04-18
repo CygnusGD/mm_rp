@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:block/template_glazed_terracotta",
+  "gui_light": "front",
+  "textures": {
+    "pattern": "minecraft:block/magenta_glazed_terracotta"
+  },
+  "display": {
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}
