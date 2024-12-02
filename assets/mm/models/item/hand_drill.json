@@ -3,8 +3,8 @@
 	"parent": "hand_drill",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "test:custom/hand_drill_texture",
-		"particle": "test:custom/hand_drill_texture"
+		"0": "mm:item/hand_drill_texture",
+		"particle": "mm:item/hand_drill_texture"
 	},
 	"elements": [
 		{

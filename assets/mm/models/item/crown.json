@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "test:custom/crown",
-		"particle": "test:custom/crown"
+		"0": "mm:item/crown",
+		"particle": "mm:item/crown"
 	},
 	"elements": [
 		{
